@@ -1,0 +1,19 @@
+{
+  "name": "tempboilerplate",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amshonekan/tempboilerplate.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a.shonekan",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.0.0",
+    "nodemon": "^1.11.0"
+  }
+}
